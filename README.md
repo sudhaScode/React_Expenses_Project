@@ -10,3 +10,4 @@ $npm start
 setup server
 $npm init -y
 $npm install {all server dependencies express cors nodemon}
+$npm start
